@@ -1,0 +1,69 @@
+
+
+
+HOME
+        
+      <li>
+        <a href="about.html">
+          ABOUT
+        </a>
+      </li>
+      </ul>
+    </nav>
+  </header>
+
+<section>
+  <img src="image/neko.png" width="140" height="140" alt="neko"
+  class="icon">
+  <h1>松浦千尋</h1>
+  <p>UI/UXデザイナー見習いです</p>
+  <div class="works">
+    <section>
+      <img src="image/rire-.png" width="400" height="260" alt="勇者ゲーム">
+      <h1>運動会</h1>
+      <p>
+        私は、5月25日、運動会の本番をやりました。朝、パスで、学校に行きました。グラウンドに行きました。私は、黄色組です。応援して８０メートルそうをやってみたら３い<img src="image/undoukai_flag3.png" width="120" height="90" alt="勇者ゲーム">
+でした、その次にデ 
+ カパンをやりましたいっぱい頑張ったけど、一パンぴりでした。そして、お菓子交換をしました。</p>綱引をしました。低学年も、高学年も綱引で優勝しました。そして、結果は2位でした。、</section>
+      <section>
+        <img src="image/ko-nn.png" width="400" height="260" alt="宝探しゲーム">
+        <h1>        <ptwa私が、好きなもの</p>
+        </section>私の1番好きな食べ物はお菓子です。アイスクリームとかが好き
+です。2位は外国料理です。いろいろな食べ物を食べたいです。3位は、ちくわ天です。
+
+        <section>
+          <img src="image/onnnanoko.png" width="400" height="260" alt="神経衰弱">
+          <h1>なわとび50回h1>
+          <p>今週までにやることを私は縄跳びにしました。1回目は全然うまくなかったけど60回目には54かいをいっていました。うれしかったです。</p>
+          </section>
+  </div>
+
+</section>
+
+<footer>
+  <ul>
+    <li>
+      <a href="mailto:kitano@bombsight.net" target="_blank">
+      <img src="image/mail.png" width="20" height="20" alt="メール">
+      </a>
+        </li>
+
+    <li>
+      <a href="http://dotinstall.com" target="_blank">
+        <img src="image/blog.png" width="20" height="20" alt="ブログサイトへ">
+      </a>
+    </li>
+
+    <li>
+      <a href="http://dotinstall.com" target="_blank">
+        <img src="image/photos.png" width="20" height="20" alt="写真サイトへ">
+       </a>
+     </li>
+
+  </ul>
+  <p>(c) Tomoko Matsuura</p>
+  </footer>
+
+
+</body>
+</html>
